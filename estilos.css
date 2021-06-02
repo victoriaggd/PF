@@ -1,0 +1,97 @@
+body{
+    width:100;
+    margin:0;
+    padding:0;
+    background-color:#63BCC9;
+}
+.header{
+    height:15%;
+}
+.menu{
+    padding-left: 50%;
+    margin:0;
+    display:flex;
+    font-family:courier,arial,helvética;
+    font-size: 95%;
+    background-color: white;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+
+ul{
+   width:70%;
+   padding-left: 20px;
+   padding-right: 25px;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   text-align: center;
+}
+.piePagina{
+    padding-left: 10%;
+    padding-top:10px;
+    margin:0;
+    background-color: white;
+    text-align:center;
+    
+}
+.hipervinculo{
+    width: 5px;
+}
+
+.fb, .twitter{
+    width:4%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top:5px;
+    padding-bottom: 10px;
+}
+.contenido{
+    font-family:courier,arial,helvética;
+    font-size: 130%;
+    
+    float:right;
+    width:44.5%;
+    text-align: center;
+    padding-top:5%;
+    padding-bottom:5%;
+}
+.hiperRama{
+    text-decoration: underline;
+}
+
+.definicion{
+    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-left: 40px;;
+    padding-right: 50px;
+    text-align: justify;
+    
+}
+.contacto{
+    border-style: dotted;
+    width:40%;
+    height:560px;
+    font-family:courier,arial,helvética;
+    font-size: 180%;
+    text-align:center;
+    margin-left: 32%;
+    margin-right: 30%;   
+}
+.ramas{
+    font-family:courier,arial,helvética;
+    font-size: 150%;
+}
+h4{
+    text-align: center;
+}
+.contenedorPsicologiaBasica{
+    
+    padding: 2%;
+    padding-right: 3%;
+    padding-left: 3%;
+    font-family:courier,arial,helvética;
+    font-size: 130%;
+    text-align: justify;
+}
